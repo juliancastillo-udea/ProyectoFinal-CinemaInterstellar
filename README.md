@@ -15,4 +15,6 @@
 
 
 1.  Primer numero
-2.  
+2.  Imagen del proyecto
+
+![Zelda](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2025/06/todos-juegos-legend-zelda-peor-mejor-orden-recomendado-jugar-toda-saga-4339372.jpg?tf=3840x)
